@@ -1,4 +1,4 @@
-# bookhaven-part-b-readme
+# T3A2-B Bookhaven
 
 ## Deployed URL Link (R10)
 
@@ -72,35 +72,41 @@ vitest is framework within Javascript utilised for unit testing and popular for 
 
 ## Trello Screenshots (CMP1002-6.2, CMP1002-7.4)
 
+Continuing on from T3A2-A, our team utilised a Trello based kanban board for project management. Some example cards along with the progress of the assignment can be seen below:
+
+### Example Cards
+
+![Example_Card_1](./docs/Trello/trello_card.png)
+
+![Example_Card_2](./docs/Trello/Trello_Card2.png)
+
 ### Sprint 2
-
-
 
 #### Meeting 3
 
-
+![Sprint_2_Meeting_3](./docs/Trello/Trello_Sprint2_Meeting3.png)
 
 #### Meeting 4
 
-
+![Sprint2_Meeting_4](./docs/Trello/Trello_Sprint2_Meeting4.png)
 
 ### Sprint 3
 
 #### Meeting 1
 
-
+![Sprint3_Meeting_1](./docs/Trello/Trello_Sprint3_Meeting1.png)
 
 #### Meeting 2
 
-
+![Sprint3_Meeting_2](./docs/Trello/Trello_Sprint3_Meeting2.png)
 
 #### Meeting 3
 
-
+![Sprint3_Meeting_3](./docs/Trello/Trello_Sprint3_Meeting3.png)
 
 #### Meeting 4
 
-
+![Sprint3_Meeting_4](./docs/Trello/Trello_Sprint3_Meeting4.png)
 
 ## Deployed URLs (CMP1002-4.2)
 
