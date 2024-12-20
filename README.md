@@ -16,6 +16,23 @@ https://github.com/Bookhaven-WSL/bookhaven-part-b-backend
 
 https://github.com/Bookhaven-WSL/bookhaven-part-b-readme
 
+## Pages & Functionalities
+
+#### Signup/Login Page
+The user is able to enter their details to signup if a new user or login if returning user.
+
+#### Read Page
+One of two "bookshelf" pages. Allows user to look through books they have previously added to 'Read' from the Search page. The user can add a rating between 1-5 to each title using a selector. The user can also remove a title from this page.
+
+#### To Be Read Page
+The second "bookshelf" page functions similarly to the 'Read' page. The user can remove a title from this page or can chose to move it to the 'Read' bookshelf page.
+
+#### Search Page
+The user enter the name of a book in the search field. This will display books with this title as well as related titles. The user can chose the add a title to their 'Read' bookshelf or to their 'To Be Read' bookshelf.
+
+#### Recommendations Page
+The user can enter a genre in the search field to generate suggested books based on that genre. The user can then chose to add a book to their 'Read' or "To Be Read' bookshelves.
+
 ## Description of all libraries used in the application (CMP1003-1.2)
 
 ### Backend Libraries
