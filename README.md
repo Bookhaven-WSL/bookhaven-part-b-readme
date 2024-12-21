@@ -16,6 +16,19 @@ https://github.com/Bookhaven-WSL/bookhaven-part-b-backend
 
 https://github.com/Bookhaven-WSL/bookhaven-part-b-readme
 
+## Application Setup
+
+A Database access has been created with the user details:
+username: assessor_1
+password: assessor1password
+
+The below includes the varabiales for jwt secret key and database URL for the `.env`
+
+JWT_SECRET_KEY=LouisWadeAndSophieAreTheBestDevelopersToHaveEverDoneItAtCoderAcademy
+
+DATABASE_URL=mongodb+srv://assessor_1:assessor1password@bookhaven.zkbzo.mongodb.net/?retryWrites=true&w=majority&appName=BOOKHAVEN
+
+
 ## Pages & Functionalities
 
 #### Signup/Login Page
